@@ -1,0 +1,7 @@
+{
+    "userDatabase": [
+        { "identifier": "ana@gmail.com", "passId": "123456"},
+        { "identifier": "banana@gmail.com", "passId": "123456"},
+        { "identifier": "test@gmail.com", "passId": "123456"}
+    ]
+}
